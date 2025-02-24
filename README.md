@@ -82,20 +82,8 @@ Google Chrome, Ctrl+W - Close Tab
 - **Modify UI Colors, Font, and Positioning** in `ShortcutListener.java`.
 - **Add More Applications** in `shortcuts.txt`.
 
-## 🎯 Roadmap
-
--
 
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-Pull requests are welcome! Please open an issue first for major changes.
-
-## 📧 Contact
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Email**: [your.email@example.com](mailto\:your.email@example.com)
 
