@@ -1,0 +1,12 @@
+# Notepad
+Notepad, Ctrl+N - New File
+Notepad, Ctrl+S - Save File
+Notepad, Ctrl+O - Open File
+
+# Chrome
+Chrome, Ctrl+T - New Tab
+Chrome, Ctrl+W - Close Tab
+Chrome, Ctrl+Shift+T - Reopen Closed Tab
+
+# Mozilla Firefox
+Mozilla Firefox, Ctrl-T - New Tab
